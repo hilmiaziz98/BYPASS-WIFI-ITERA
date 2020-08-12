@@ -3,8 +3,8 @@
 
 String WIFI_SSID = "WIFI@ITERA"; 
 String WIFI_PASS = "";         //kosongin aja
-String NIM = "hilmi.13116150"; //USERNAME
-String PASS = "1998-11-30";    //PASS
+String NIM = "hilmi.13114236150"; //USERNAME
+String PASS = "2001-11-30";    //PASS
 
 void setup() {
   Serial.begin(9600);
